@@ -16,4 +16,4 @@
 
 *如果你无法翻墙了，可以联系我的邮箱：wtzabc123@gmail.com，给你提供方法！
 
-i[](https://github.com/wtzabc123/-/blob/master/screenshots/1.png)
+![](https://github.com/wtzabc123/-/blob/master/screenshots/1.png)
