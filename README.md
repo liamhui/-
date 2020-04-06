@@ -10,4 +10,3 @@ If you have any questions, please contact my email wtzabc123@gmail.com
 
 ![](https://github.com/wtzabc123/-/blob/master/screenshots/2.png)
 
-![](https://github.com/wtzabc123/-/blob/master/screenshots/1.png)
